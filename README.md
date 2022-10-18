@@ -1,1 +1,1 @@
-# VsixExtensionTest-
+# VsixExtensionTest
